@@ -1,4 +1,4 @@
-# Exercicio Angular 02
+# Exercício Angular 02
 
 Crie componentes para tipo de input do HTML (text, number, date, password, etc...) 
 
